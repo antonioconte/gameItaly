@@ -1,0 +1,442 @@
+[
+    {
+        "Citta": "Agrigento",
+        "Regione": "Sicilia"
+    },
+    {
+        "Citta": "Alessandria",
+        "Regione": "Piemonte"
+    },
+    {
+        "Citta": "Ancona",
+        "Regione": "Marche"
+    },
+    {
+        "Citta": "Aosta",
+        "Regione": "Valle d Aosta"
+    },
+    {
+        "Citta": "Arezzo",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Ascoli Piceno",
+        "Regione": "Marche"
+    },
+    {
+        "Citta": "Asti",
+        "Regione": "Piemonte"
+    },
+    {
+        "Citta": "Avellino",
+        "Regione": "Campania"
+    },
+    {
+        "Citta": "Bari",
+        "Regione": "Puglia"
+    },
+    {
+        "Citta": "Barletta-Andria-Trani",
+        "Regione": "Puglia"
+    },
+    {
+        "Citta": "Belluno",
+        "Regione": "Veneto"
+    },
+    {
+        "Citta": "Benevento",
+        "Regione": "Campania"
+    },
+    {
+        "Citta": "Bergamo",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Biella",
+        "Regione": "Piemonte"
+    },
+    {
+        "Citta": "Bologna",
+        "Regione": "Emilia-Romagna"
+    },
+    {
+        "Citta": "Bolzano",
+        "Regione": "Trentino-Alto Adige"
+    },
+    {
+        "Citta": "Brescia",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Brindisi",
+        "Regione": "Puglia"
+    },
+    {
+        "Citta": "Cagliari",
+        "Regione": "Sardegna"
+    },
+    {
+        "Citta": "Caltanissetta",
+        "Regione": "Sicilia"
+    },
+    {
+        "Citta": "Campobasso",
+        "Regione": "Molise"
+    },
+    {
+        "Citta": "Carbonia-Iglesias",
+        "Regione": "Sardegna"
+    },
+    {
+        "Citta": "Caserta",
+        "Regione": "Campania"
+    },
+    {
+        "Citta": "Catania",
+        "Regione": "Sicilia"
+    },
+    {
+        "Citta": "Catanzaro",
+        "Regione": "Calabria"
+    },
+    {
+        "Citta": "Chieti",
+        "Regione": "Abruzzo"
+    },
+    {
+        "Citta": "Como",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Cosenza",
+        "Regione": "Calabria"
+    },
+    {
+        "Citta": "Cremona",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Crotone",
+        "Regione": "Calabria"
+    },
+    {
+        "Citta": "Cuneo",
+        "Regione": "Piemonte"
+    },
+    {
+        "Citta": "Enna",
+        "Regione": "Sicilia"
+    },
+    {
+        "Citta": "Fermo",
+        "Regione": "Marche"
+    },
+    {
+        "Citta": "Ferrara",
+        "Regione": "Emilia-Romagna"
+    },
+    {
+        "Citta": "Firenze",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Foggia",
+        "Regione": "Puglia"
+    },
+    {
+        "Citta": "Forl\u00ec-Cesena",
+        "Regione": "Emilia-Romagna"
+    },
+    {
+        "Citta": "Frosinone",
+        "Regione": "Lazio"
+    },
+    {
+        "Citta": "Genova",
+        "Regione": "Liguria"
+    },
+    {
+        "Citta": "Gorizia",
+        "Regione": "Friuli-Venezia Giulia"
+    },
+    {
+        "Citta": "Grosseto",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Imperia",
+        "Regione": "Liguria"
+    },
+    {
+        "Citta": "Isernia",
+        "Regione": "Molise"
+    },
+    {
+        "Citta": "L Aquila",
+        "Regione": "Abruzzo"
+    },
+    {
+        "Citta": "La Spezia",
+        "Regione": "Liguria"
+    },
+    {
+        "Citta": "Latina",
+        "Regione": "Lazio"
+    },
+    {
+        "Citta": "Lecce",
+        "Regione": "Puglia"
+    },
+    {
+        "Citta": "Lecco",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Livorno",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Lodi",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Lucca",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Macerata",
+        "Regione": "Marche"
+    },
+    {
+        "Citta": "Mantova",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Massa e Carrara",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Matera",
+        "Regione": "Basilicata"
+    },
+    {
+        "Citta": "Medio Campidano",
+        "Regione": "Sardegna"
+    },
+    {
+        "Citta": "Messina",
+        "Regione": "Sicilia"
+    },
+    {
+        "Citta": "Milano",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Modena",
+        "Regione": "Emilia-Romagna"
+    },
+    {
+        "Citta": "Monza e Brianza",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Napoli",
+        "Regione": "Campania"
+    },
+    {
+        "Citta": "Novara",
+        "Regione": "Piemonte"
+    },
+    {
+        "Citta": "Nuoro",
+        "Regione": "Sardegna"
+    },
+    {
+        "Citta": "Ogliastra",
+        "Regione": "Sardegna"
+    },
+    {
+        "Citta": "Olbia-Tempio",
+        "Regione": "Sardegna"
+    },
+    {
+        "Citta": "Oristano",
+        "Regione": "Sardegna"
+    },
+    {
+        "Citta": "Padova",
+        "Regione": "Veneto"
+    },
+    {
+        "Citta": "Palermo",
+        "Regione": "Sicilia"
+    },
+    {
+        "Citta": "Parma",
+        "Regione": "Emilia-Romagna"
+    },
+    {
+        "Citta": "Pavia",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Perugia",
+        "Regione": "Umbria"
+    },
+    {
+        "Citta": "Pesaro e Urbino",
+        "Regione": "Marche"
+    },
+    {
+        "Citta": "Pescara",
+        "Regione": "Abruzzo"
+    },
+    {
+        "Citta": "Piacenza",
+        "Regione": "Emilia-Romagna"
+    },
+    {
+        "Citta": "Pisa",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Pistoia",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Pordenone",
+        "Regione": "Friuli-Venezia Giulia"
+    },
+    {
+        "Citta": "Potenza",
+        "Regione": "Basilicata"
+    },
+    {
+        "Citta": "Prato",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Ragusa",
+        "Regione": "Sicilia"
+    },
+    {
+        "Citta": "Ravenna",
+        "Regione": "Emilia-Romagna"
+    },
+    {
+        "Citta": "Reggio Calabria",
+        "Regione": "Calabria"
+    },
+    {
+        "Citta": "Reggio Emilia",
+        "Regione": "Emilia-Romagna"
+    },
+    {
+        "Citta": "Rieti",
+        "Regione": "Lazio"
+    },
+    {
+        "Citta": "Rimini",
+        "Regione": "Emilia-Romagna"
+    },
+    {
+        "Citta": "Roma",
+        "Regione": "Lazio"
+    },
+    {
+        "Citta": "Rovigo",
+        "Regione": "Veneto"
+    },
+    {
+        "Citta": "Salerno",
+        "Regione": "Campania"
+    },
+    {
+        "Citta": "Sassari",
+        "Regione": "Sardegna"
+    },
+    {
+        "Citta": "Savona",
+        "Regione": "Liguria"
+    },
+    {
+        "Citta": "Siena",
+        "Regione": "Toscana"
+    },
+    {
+        "Citta": "Siracusa",
+        "Regione": "Sicilia"
+    },
+    {
+        "Citta": "Sondrio",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Taranto",
+        "Regione": "Puglia"
+    },
+    {
+        "Citta": "Teramo",
+        "Regione": "Abruzzo"
+    },
+    {
+        "Citta": "Terni",
+        "Regione": "Umbria"
+    },
+    {
+        "Citta": "Torino",
+        "Regione": "Piemonte"
+    },
+    {
+        "Citta": "Trapani",
+        "Regione": "Sicilia"
+    },
+    {
+        "Citta": "Trento",
+        "Regione": "Trentino-Alto Adige"
+    },
+    {
+        "Citta": "Treviso",
+        "Regione": "Veneto"
+    },
+    {
+        "Citta": "Trieste",
+        "Regione": "Friuli-Venezia Giulia"
+    },
+    {
+        "Citta": "Udine",
+        "Regione": "Friuli-Venezia Giulia"
+    },
+    {
+        "Citta": "Varese",
+        "Regione": "Lombardia"
+    },
+    {
+        "Citta": "Venezia",
+        "Regione": "Veneto"
+    },
+    {
+        "Citta": "Verbano Cusio Ossola",
+        "Regione": "Piemonte"
+    },
+    {
+        "Citta": "Vercelli",
+        "Regione": "Piemonte"
+    },
+    {
+        "Citta": "Verona",
+        "Regione": "Veneto"
+    },
+    {
+        "Citta": "Vibo Valentia",
+        "Regione": "Calabria"
+    },
+    {
+        "Citta": "Vicenza",
+        "Regione": "Veneto"
+    },
+    {
+        "Citta": "Viterbo",
+        "Regione": "Lazio"
+    }
+]
